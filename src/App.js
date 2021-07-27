@@ -43,7 +43,7 @@ function App() {
             <Route path="/comment/:id">
               <Comment />
             </Route>
-            <Route path="/">
+            <Route exact path="/">
               <Home />
             </Route>
             <Route path="/home">

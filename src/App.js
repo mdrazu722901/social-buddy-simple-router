@@ -7,7 +7,6 @@ import {
 import About from "./components/About/About";
 import Comment from "./components/comment/Comment";
 import Home from "./components/Home/Home";
-import Post from "./components/Post/Post";
 import Users from "./components/Users/Users";
 function App() {
   return (
